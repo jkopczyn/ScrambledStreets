@@ -4,7 +4,7 @@ import os
 
 outpath = "./18cardsfile/"
 basepath = "template.eps"
-inpath = "cardlist.txt"
+inpath = "18cardlist.txt"
 base = open(basepath) #the template
 template = base.read()
 base.close() #there is nothing more to see
