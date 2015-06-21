@@ -4,9 +4,6 @@ I 0 G C 0 W C 2 B
 I 0 W S 0 B S 1 G
 I 0 B S 0 G S 1 W
 I 0 G S 0 W S 1 B
-I 0 W _ 1 B _ 0 G
-I 0 B _ 1 G _ 0 W
-I 0 G _ 1 W _ 0 B
 C 0 W L 2 B L 3 G
 C 0 B L 2 G L 3 W
 C 0 G L 2 W L 3 B
