@@ -2,9 +2,9 @@
 import shutil
 import os
 
-outpath = "./allcardsfile/"
+outpath = "./42cardsfile/"
 basepath = "template.eps"
-inpath = "longcardlist.txt"
+inpath = "42cardslist.txt"
 base = open(basepath) #the template
 template = base.read()
 base.close() #there is nothing more to see
