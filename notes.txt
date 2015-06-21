@@ -1,0 +1,4 @@
+in a cardfile directory
+mkdir JPEGs
+mogrify -path JPEGs/ -format jpg *.eps
+
